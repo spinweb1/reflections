@@ -30,3 +30,10 @@ How do the diagrams help you visualize the branch structure?
 
 They make it visual.  Doi.
 
+
+
+
+What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+
+I believe a combined result of some sort.
