@@ -9,3 +9,13 @@ When collaborating with others, or perhaps to have a non-local backup.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 How would it know when to pull?  I may save a file, but not be done with the contents of a logical break.
+
+
+
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork: to make a clone on Github of someone else's repo
+Clone: to pull a local copy of a repo to your computer from Github
+Branch: to create a copy of existing code to modify or debug it
