@@ -26,3 +26,12 @@ Branch: to create a copy of existing code to modify or debug it
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 To keep track of the state of the remote for info on merging with local branches.
+
+
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Fewer steps for really basic changes to one file (e.g., no need to set up a repo), but complex merging
+and tracking everything would be much harder.
